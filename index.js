@@ -19,5 +19,7 @@ bot.on('message', msg => {
     if (msg.content === 'pedro?') {
         msg.reply('Esse é o mais brabo!')
     }
+
+    console.log('vai se fude')
 })
 
