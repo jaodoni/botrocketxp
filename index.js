@@ -21,5 +21,6 @@ bot.on('message', msg => {
     }
 
     console.log('vai se fude')
+    console.log('git merdinha')
 })
 
