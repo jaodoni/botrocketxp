@@ -14,3 +14,10 @@ bot.on('message', msg => {
         msg.reply('Salve salve fml!')
     }
 })
+
+bot.on('message', msg => {
+    if (msg.content === 'pedro?') {
+        msg.reply('Esse é o mais brabo!')
+    }
+})
+
